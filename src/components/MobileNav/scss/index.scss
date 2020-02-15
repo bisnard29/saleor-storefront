@@ -1,7 +1,7 @@
 @import "../../../globalStyles/scss/variables.scss";
 
 .side-nav {
-  $item-height: 3.7rem;
+  $item-height: 5rem;
   max-width: calc(100vw - 5rem);
   width: 30rem;
 
@@ -15,7 +15,7 @@
       align-items: center;
       color: $base-font-color;
       display: flex;
-      font-weight: 600;
+      font-weight: 700;
       padding: $spacer;
       text-decoration: none;
       text-transform: uppercase;
