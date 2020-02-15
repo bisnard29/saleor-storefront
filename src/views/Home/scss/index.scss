@@ -2,7 +2,7 @@
 
 .home-page {
   &__hero {
-    background-color: $blue-overlay;
+    background-color: #9CAE88;
     background-blend-mode: multiply;
     background-size: cover;
     background-position: center;
@@ -33,7 +33,7 @@
     }
 
     &__title {
-      background-color: $white;
+      background-color: #F2DEC5;
       display: inline-block;
       transform: skew(45deg);
       padding: $spacer $spacer * 3;
